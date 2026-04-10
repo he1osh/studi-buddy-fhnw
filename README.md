@@ -6,8 +6,10 @@
 Studieninteressierte und Studierende des BSc Business Artificial Intelligence an der FHNW haben viele Fragen – zu Modulen, Fristen, Prüfungen, Studienalltag. Diese Informationen sind heute über verschiedene Webseiten, PDFs und Reglemente verstreut. Der Studi Buddy beantwortet diese Fragen rund um die Uhr, direkt und in natürlicher Sprache.
 
 ## Zielgruppe (2 Hauptgruppen)
-### Erstens Studieninteressierte (typischerweise Maturand:innen oder Berufstätige), die herausfinden wollen, ob der Studiengang zu ihnen passt. 
-### Zweitens aktuelle Studierende, die schnell praktische Infos brauchen. Der Bot wird über Web Chat genutzt – z. B. abends beim Recherchieren oder kurz vor einer Frist auf dem Handy.
+#### 1. 
+Studieninteressierte (typischerweise Maturand:innen oder Berufstätige), die herausfinden wollen, ob der Studiengang zu ihnen passt. 
+#### 2.
+Aktuelle Studierende, die schnell praktische Infos brauchen. Der Bot wird über Web Chat genutzt – z. B. abends beim Recherchieren oder kurz vor einer Frist auf dem Handy.
 
 
 ## Team
