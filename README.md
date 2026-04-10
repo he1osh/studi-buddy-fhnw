@@ -2,15 +2,15 @@
 
 **Studienberater-Chatbot für die FHNW**
 
-Ein Dialogsystem, das Studieninteressierten und Studierenden Fragen rund um den Studiengang beantwortet – von Modulinhalten über Anmeldefristen bis hin zum Prüfungsreglement.
+Ein Dialogsystem, das Studieninteressierten und Studierenden Fragen rund um den Studiengang beantwortet.
+Von Modulinhalten über Anmeldefristen bis hin zum Prüfungsreglement.
 
 ## Team
 
 | Name | Rolle |
 |------|-------|
-| [Name 1] | [z. B. Conversational Design, NLU] |
-| [Name 2] | [z. B. Architektur, Integration] |
-| [Name 3] | [z. B. Testing, Dokumentation] |
+| Helin | [z. B. Conversational Design, NLU] |
+| Aurelius | [z. B. Architektur, Integration] |
 
 ## Links
 
